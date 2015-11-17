@@ -9,6 +9,6 @@
 
 
 ##Contact us or report a bug##
-If you'd like to get in touch with us please see our [[Contact Us]] page.
+If you'd like to get in touch with us please see our [Contact Us](https://github.com/smashgg/support/wiki/Contact-Us) page.
 
 Found a bug? Please report it [here.](https://github.com/smashgg/support/wiki/Reporting-a-Bug)
